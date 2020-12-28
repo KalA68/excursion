@@ -18,5 +18,9 @@ a   {
 p   {
     font-size: 21;
     color: gray;
-    text-align: center;
+}
+#copyright {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
 }
